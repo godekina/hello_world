@@ -1,2 +1,2 @@
 # hello_world
-this is my firat github repository
+this is my first github repository
